@@ -1,3 +1,5 @@
+#!/bin/python
+
 numbers = []
 
 for i in range(10):
