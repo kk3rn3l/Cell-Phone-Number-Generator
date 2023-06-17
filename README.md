@@ -20,7 +20,7 @@ Python program to generate Cell Phone Numbers. Make sure to add of subtract "for
 And set the range 1 digit higher than your desired number.
 
 
-Installation process:
+# Installation process:
 1. git clone https://github.com/kk3rn3l/Cell-Phone-Number-Generator.git
 2. cd Cell-Phone-Number-Generator
 3. nano generate_number.py
