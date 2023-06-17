@@ -16,7 +16,7 @@ Cell-Phone-Number-Generator is a Python script that generates valid cell phone n
 
 # Please note that this tool should be used responsibly and in accordance with applicable laws and regulations.
 
-Python program to generate Cell Phone Numbers. Make sure to add of subtract "for j in range(10): " according to your needs. 
+Python program to generate Cell Phone Numbers. Make sure to add or subtract "for j in range(10): " according to your needs. 
 And set the range 1 digit higher than your desired number.
 
 
