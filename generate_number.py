@@ -10,7 +10,9 @@ for i in range(10):
                     for m in range(10):
                         for n in range(10):
                             for o in range(10):
-                                number = f'03{i}{j}{k}{l}{m}{n}{o}' #Change 03 with country code
+                                for p in range(10):
+                                    for q in range(10):
+                                number = f'03{i}{j}{k}{l}{m}{n}{o}{p}{q}' #Change 03 with country code
                                 numbers.append(number)
 
 # Save the generated numbers in a text file
