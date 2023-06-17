@@ -8,3 +8,4 @@ Installation process:
 2. cd Cell-Phone-Number-Generator
 3. nano main.py
 4. Make sure to add of subtract "for n in range(10): " according to your needs. And set the range 1 digit higher than your desired number.
+5. Run " ./main.py"
