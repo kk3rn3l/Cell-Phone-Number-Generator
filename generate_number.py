@@ -3,7 +3,7 @@
 numbers = []
 
 for i in range(10):
-    if i not in [6, 7, 8, 9]:
+    if i not in [6, 7, 8, 9]: #replace any digit or comment out this section if you want 6,7,8,9 in the place of {i} 
         for j in range(10):
             for k in range(10):
                 for l in range(10):
