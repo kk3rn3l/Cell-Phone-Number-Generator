@@ -7,6 +7,6 @@ Installation process:
 1. git clone https://github.com/kk3rn3l/Cell-Phone-Number-Generator.git
 2. cd Cell-Phone-Number-Generator
 3. nano generate_number.py
-4. Make sure to add of subtract "for n in range(10): " according to your needs. And set the range 1 digit higher than your desired number.
+4. Make sure to add of subtract "for n in range(10): " according to your needs of digits after country code. And set the range 1 digit higher than your desired number.
 5. chmod +x generate_number.py
 6. Run " ./generate_number.py"
